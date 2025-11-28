@@ -1,8 +1,12 @@
-# Análisis de Contratación Pública del Valle del Cauca  
-### Proyecto Final – Inteligencia Artificial (MIAA – Universidad Icesi)
+# Análisis de Contratación Pública del Valle del Cauca
+**Esteban Oliveros M.**  
+Diputado del Valle del Cauca – Ingeniero Electrónico  
+### Proyecto Final 1 – Inteligencia Artificial (MIAA – Universidad Icesi)
 
 Este repositorio contiene el desarrollo completo del proyecto final del curso de Inteligencia Artificial, aplicado al análisis de la contratación pública del Valle del Cauca.  
-El objetivo es demostrar cómo el aprendizaje no supervisado puede ayudar a identificar patrones, segmentaciones y posibles anomalías en los contratos públicos, apoyando procesos de transparencia y control político.
+
+Objetivo SMART:
+En un periodo de cuatro semanas, procesar los objetos contractuales publicados por la Gobernación del Valle del Cauca, aplicar técnicas de análisis semántico y métodos de clusterización no supervisada para identificar grupos temáticos relacionados con el enfoque de género, y generar un informe que clasifique los contratos, intente identificar patrones sospechosos de las compras públicas orientadas a beneficiar a las mujeres del departamento.
 
 ---
 
@@ -54,10 +58,6 @@ Explica el alcance del proyecto desde dos perspectivas:
 (El enlace se agregará aquí cuando el video esté publicado).
 
 ---
-
-## 🎯 Objetivo del proyecto PENDEINTE POR AJUSTAR!
-
-
 
 
 ---
