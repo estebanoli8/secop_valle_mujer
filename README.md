@@ -20,6 +20,9 @@ En un periodo de cuatro semanas, procesar los objetos contractuales publicados p
 -  `2493 no_supervisado_secop_mujer_valle.ipynb`
   Clusterización y análisis de lenguaje con 2 pipelinea (básico y avanzando)
 
+DISPONIBLE EN:
+https://colab.research.google.com/drive/1mtv-ACCZblV-1Ql3lqMr5qNkmcmJiy_C#scrollTo=1HdLbzTfO9wU
+
 Ambos notebooks están versionados directamente contra este repositorio mediante Colab.
 
 ---
