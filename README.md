@@ -17,7 +17,7 @@ En un periodo de cuatro semanas, procesar los objetos contractuales publicados p
 - `hacemos_con_ingenieria_equidad_valle.ipynb`  
   Exploración inicial, limpieza de datos, creación de nuevas variables y análisis descriptivo.
 
--  2493 no_supervisado_secop_mujer_valle.ipynb
+-  `2493 no_supervisado_secop_mujer_valle.ipynb`
   Clusterización y análisis de lenguaje con 2 pipelinea (básico y avanzando)
 
 Ambos notebooks están versionados directamente contra este repositorio mediante Colab.
