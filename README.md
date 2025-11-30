@@ -13,14 +13,12 @@ En un periodo de cuatro semanas, procesar los objetos contractuales publicados p
 ## 📂 Contenido del repositorio
 
 **1. Notebooks del análisis (gestionados desde Google Colab)**  
-Ubicados en la carpeta `notebooks/`:
 
-- `01_EDA_Limpieza_Integracion.ipynb`  
+- `hacemos_con_ingenieria_equidad_valle.ipynb`  
   Exploración inicial, limpieza de datos, creación de nuevas variables y análisis descriptivo.
 
-- `02_Modelos_No_Supervisados.ipynb`  
-  Implementación de técnicas no supervisadas:  
-  PCA, K-Means, silhouette, clustering final y perfilamiento de cada cluster.
+-  2493 no_supervisado_secop_mujer_valle.ipynb
+  Clusterización y análisis de lenguaje con 2 pipelinea (básico y avanzando)
 
 Ambos notebooks están versionados directamente contra este repositorio mediante Colab.
 
@@ -36,7 +34,7 @@ Incluye:
 - Discusión e interpretación  
 - Conclusiones  
 
-Ubicado en `reportes/informe_final.pdf`.
+Ubicado en `/Informe Proyecto Final MIAA I  - Esteban Oliveros (Clusterización y análisis de lenguaje para caracterización de las compras públicas de la Gobernación del Valle en beneficio de las Mujeres del departamento)`.
 
 ---
 
@@ -47,20 +45,6 @@ Ubicada en `reportes/presentacion_final.pptx`.
 ---
 
 **4. Video explicativo (<10 minutos)**  
-Explica el alcance del proyecto desde dos perspectivas:
-
-- **Negocio / control político:**  
-  Cómo este análisis ayuda a identificar patrones de contratación, riesgos y comportamientos irregulares en el gasto público.
-
-- **Ingeniería / IA aplicada:**  
-  Explicación simple y comprensible de las técnicas utilizadas y su aporte al análisis.
-
-(El enlace se agregará aquí cuando el video esté publicado).
-
----
-
-
----
 
 **Esteban Oliveros M.**  
 Diputado del Valle del Cauca – Ingeniero Electrónico  
