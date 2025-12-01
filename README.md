@@ -41,13 +41,8 @@ Ubicado en `/Informe Proyecto Final MIAA I  - Esteban Oliveros (Clusterización 
 
 ---
 
-**3. Presentación**  
-Diapositivas con los hallazgos principales del proyecto, orientadas a un público mixto: académico, ciudadano y político.  
-Ubicada en `reportes/presentacion_final.pptx`.
-
----
-
-**4. Video explicativo (<10 minutos)**  
+**3. Video explicativo (<10 minutos)**  
+https://youtu.be/frnfwOcozMc?si=rHjNqPhslCG4Vr9R
 
 **Esteban Oliveros M.**  
 Diputado del Valle del Cauca – Ingeniero Electrónico  
