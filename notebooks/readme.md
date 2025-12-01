@@ -1,1 +1,1 @@
-
+notebooks (.ipynb) están disponibles en el main, sin emabrgo hubo un problema de metadatos con el '2493_no_supervisado' y el 'no_supervisado' que impiden su visualización aquí, sin emabrgo está disponible el enlace para el notebook '2493_no_supervisado' en el readme.md del main.
